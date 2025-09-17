@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.983,
+  "macro_f1": 0.9829938199225822,
+  "classes": [
+    "airplane",
+    "ship",
+    "cat",
+    "automobile",
+    "dog"
+  ]
+}
